@@ -1,0 +1,4 @@
+application:
+  name: Belajar Spring Boot Hari Ini Jossss
+  version: 1.5
+  production-mode: true
